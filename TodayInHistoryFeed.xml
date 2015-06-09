@@ -42,7 +42,7 @@
         <category><![CDATA[News]]></category>
         <item>
             <title><![CDATA[Today In History - June 8th]]></title>
-            <description><![CDATA[http://www.history.com/this-day-in-history/king-assassination-suspect-arrested]]></description>
+            <description><![CDATA[<a href="http://www.history.com/this-day-in-history/king-assassination-suspect-arrested">http://www.history.com/this-day-in-history/king-assassination-suspect-arrested</a>]]></description>
             <link>https://archive.org/download/TodayInHistoryMonJun082015/Today_In_History_Mon-Jun-08-2015.mp3</link>
             <guid isPermaLink="true">https://archive.org/download/TodayInHistoryMonJun082015/Today_In_History_Mon-Jun-08-2015.mp3</guid>
             <dc:creator><![CDATA[Matt Greene]]></dc:creator>
@@ -50,7 +50,7 @@
             <itunes:author>Matt Greene</itunes:author>
             <itunes:explicit>No</itunes:explicit>
             <itunes:subtitle>Today In History - June 8th</itunes:subtitle>
-            <itunes:summary>http://www.history.com/this-day-in-history/king-assassination-suspect-arrested</itunes:summary>
+            <itunes:summary><a href="http://www.history.com/this-day-in-history/king-assassination-suspect-arrested">http://www.history.com/this-day-in-history/king-assassination-suspect-arrested</a></itunes:summary>
             <itunes:keywords>Today in History</itunes:keywords>
             <enclosure url="https://archive.org/download/TodayInHistoryMonJun082015/Today_In_History_Mon-Jun-08-2015.mp3" length="1674579" type="audio/mpeg"/>
         </item>
