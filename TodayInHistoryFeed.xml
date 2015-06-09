@@ -10,10 +10,10 @@
             <link>http://sleepybandit.github.io/TodayInHistory/</link>
         </image>
         <generator>Podcast for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2015 07:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2015 13:49:04 GMT</lastBuildDate>
         <atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Matt Greene]]></author>
-        <pubDate>Mon, 08 Jun 2015 08:07:47 GMT</pubDate>
+        <pubDate>Tue, 09 Jun 2015 14:49:04 GMT</pubDate>
         <copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
         <language><![CDATA[en]]></language>
         <managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
         <category><![CDATA[Entertainment]]></category>
         <category><![CDATA[Education]]></category>
         <category><![CDATA[News]]></category>
+        <item>
+            <title><![CDATA[Today In History - June 9th, 1973: Secretariat wins Triple Crown]]></title>
+            <description><![CDATA[<a href="http://www.history.com/this-day-in-history/secretariat-wins-triple-crown">http://www.history.com/this-day-in-history/secretariat-wins-triple-crown</a>]]></description>
+            <link>https://archive.org/download/TodayInHistoryTueJun092015/Today_In_History_Tue-Jun-09-2015.mp3</link>
+            <guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueJun092015/Today_In_History_Tue-Jun-09-2015.mp3</guid>
+            <dc:creator><![CDATA[Matt Greene]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2015 14:49:04 GMT</pubDate>
+            <itunes:author>Matt Greene</itunes:author>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle>Today In History - June 9th, 1973: Secretariat wins Triple Crown</itunes:subtitle>
+            <itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/secretariat-wins-triple-crown&quot;&gt;http://www.history.com/this-day-in-history/secretariat-wins-triple-crown&lt;/a&gt;</itunes:summary>
+            <itunes:keywords>Today in History</itunes:keywords>
+            <enclosure url="https://archive.org/download/TodayInHistoryTueJun092015/Today_In_History_Tue-Jun-09-2015.mp3" length="1684767" type="audio/mpeg"/>
+        </item>
         <item>
             <title><![CDATA[Today In History - June 8th, 1968: King assassination suspect arrested]]></title>
             <description><![CDATA[<a href="http://www.history.com/this-day-in-history/king-assassination-suspect-arrested">http://www.history.com/this-day-in-history/king-assassination-suspect-arrested</a>]]></description>
