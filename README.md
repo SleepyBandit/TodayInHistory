@@ -27,11 +27,11 @@ Feel free to find links to the podcast on [iTunes](https://itunes.apple.com/us/p
 
 This application was written in JavaScript on the NodeJS framework. It completes the following tasks daily:
 
-- Queries Reddit for the top 25 voted TIL posts for the past 24 hours
+- Queries History.com for the daily This Day in History article
 - Cleans the headline text to limit potential error during TTS conversion
-- Creates an intro, numerated headlines, and closing scripts for the day's podcast
+- Creates an intro, main story, and closing scripts for the day's podcast
 - Creates a back up of the daily script text in json format
-- Creates a show note text file of links to each post on Reddit
+- Creates a show note text file with a link to the History.com article
 - Uses a TTS (text-to-speech) API to create the shows audio files
 - Uploads the final podcast MP3 file to Archive.org
 - Creates an updated, itunes' supported, XML feed
