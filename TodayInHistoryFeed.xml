@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 20 Jun 2015 13:16:16 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 21 Jun 2015 13:16:23 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sat, 20 Jun 2015 14:16:16 GMT</pubDate>
+		<pubDate>Sun, 21 Jun 2015 14:16:23 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - June 21st, 1788: U.S. Constitution ratified]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/u-s-constitution-ratified">http://www.history.com/this-day-in-history/u-s-constitution-ratified</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySunJun212015/Today_In_History_Sun-Jun-21-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySunJun212015/Today_In_History_Sun-Jun-21-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 21 Jun 2015 14:16:23 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - June 21st, 1788: U.S. Constitution ratified</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/u-s-constitution-ratified&quot;&gt;http://www.history.com/this-day-in-history/u-s-constitution-ratified&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySunJun212015/Today_In_History_Sun-Jun-21-2015.mp3" length="1313604" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 20th, 1975: Jaws released]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/jaws-released-2">http://www.history.com/this-day-in-history/jaws-released-2</a>]]></description>
