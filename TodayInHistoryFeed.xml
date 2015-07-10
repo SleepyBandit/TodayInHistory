@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 09 Jul 2015 13:16:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jul 2015 13:16:11 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Thu, 09 Jul 2015 14:16:22 GMT</pubDate>
+		<pubDate>Fri, 10 Jul 2015 14:16:11 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - July 10th, 1925: Monkey Trial begins]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/monkey-trial-begins">http://www.history.com/this-day-in-history/monkey-trial-begins</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryFriJul102015/Today_In_History_Fri-Jul-10-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryFriJul102015/Today_In_History_Fri-Jul-10-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 10 Jul 2015 14:16:11 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - July 10th, 1925: Monkey Trial begins</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/monkey-trial-begins&quot;&gt;http://www.history.com/this-day-in-history/monkey-trial-begins&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryFriJul102015/Today_In_History_Fri-Jul-10-2015.mp3" length="1633499" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - July 9th, 1877: Wimbledon tournament begins]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/wimbledon-tournament-begins">http://www.history.com/this-day-in-history/wimbledon-tournament-begins</a>]]></description>
