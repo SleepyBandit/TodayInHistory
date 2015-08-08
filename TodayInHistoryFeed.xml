@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 07 Aug 2015 13:16:29 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Aug 2015 13:16:25 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Fri, 07 Aug 2015 14:16:29 GMT</pubDate>
+		<pubDate>Sat, 08 Aug 2015 14:16:25 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - August 8th, 1974: Nixon resigns]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/nixon-resigns">http://www.history.com/this-day-in-history/nixon-resigns</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySatAug082015/Today_In_History_Sat-Aug-08-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySatAug082015/Today_In_History_Sat-Aug-08-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 08 Aug 2015 14:16:25 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - August 8th, 1974: Nixon resigns</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/nixon-resigns&quot;&gt;http://www.history.com/this-day-in-history/nixon-resigns&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySatAug082015/Today_In_History_Sat-Aug-08-2015.mp3" length="1784121" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 7th, 1947: Wood raft makes 4,300-mile voyage]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/wood-raft-makes-4300-mile-voyage">http://www.history.com/this-day-in-history/wood-raft-makes-4300-mile-voyage</a>]]></description>
