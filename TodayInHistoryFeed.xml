@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 13 Aug 2015 13:16:34 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 15 Aug 2015 00:03:46 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Thu, 13 Aug 2015 14:16:34 GMT</pubDate>
+		<pubDate>Sat, 15 Aug 2015 01:03:46 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - August 14th, 2003: Blackout hits Northeast United States]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states">http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryFriAug142015/Today_In_History_Fri-Aug-14-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryFriAug142015/Today_In_History_Fri-Aug-14-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 15 Aug 2015 01:03:46 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - August 14th, 2003: Blackout hits Northeast United States</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states&quot;&gt;http://www.history.com/this-day-in-history/blackout-hits-northeast-united-states&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryFriAug142015/Today_In_History_Fri-Aug-14-2015.mp3" length="1200911" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 13th, 1961: Berlin is divided]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/berlin-is-divided">http://www.history.com/this-day-in-history/berlin-is-divided</a>]]></description>
