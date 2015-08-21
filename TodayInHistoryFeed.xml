@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 20 Aug 2015 13:16:26 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Aug 2015 13:16:32 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Thu, 20 Aug 2015 14:16:26 GMT</pubDate>
+		<pubDate>Fri, 21 Aug 2015 14:16:32 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - August 21st, 1959: Hawaii becomes 50th state]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/hawaii-becomes-50th-state">http://www.history.com/this-day-in-history/hawaii-becomes-50th-state</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryFriAug212015/Today_In_History_Fri-Aug-21-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryFriAug212015/Today_In_History_Fri-Aug-21-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 21 Aug 2015 14:16:32 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - August 21st, 1959: Hawaii becomes 50th state</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/hawaii-becomes-50th-state&quot;&gt;http://www.history.com/this-day-in-history/hawaii-becomes-50th-state&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryFriAug212015/Today_In_History_Fri-Aug-21-2015.mp3" length="1043079" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 20th, 1911: First around-the-world telegram sent, 66 years before Voyager II launch]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch">http://www.history.com/this-day-in-history/first-around-the-world-telegram-sent-66-years-before-voyager-ii-launch</a>]]></description>
