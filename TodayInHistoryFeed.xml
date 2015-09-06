@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 05 Sep 2015 13:16:15 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 06 Sep 2015 13:16:21 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sat, 05 Sep 2015 14:16:15 GMT</pubDate>
+		<pubDate>Sun, 06 Sep 2015 14:16:21 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - September 6th, 1915: First tank produced]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/first-tank-produced">http://www.history.com/this-day-in-history/first-tank-produced</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySunSep062015/Today_In_History_Sun-Sep-06-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySunSep062015/Today_In_History_Sun-Sep-06-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 06 Sep 2015 14:16:21 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - September 6th, 1915: First tank produced</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/first-tank-produced&quot;&gt;http://www.history.com/this-day-in-history/first-tank-produced&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySunSep062015/Today_In_History_Sun-Sep-06-2015.mp3" length="1113610" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 5th, 1836: Sam Houston elected as president of Texas]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/sam-houston-elected-as-president-of-texas">http://www.history.com/this-day-in-history/sam-houston-elected-as-president-of-texas</a>]]></description>
