@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 14 Sep 2015 13:16:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 15 Sep 2015 13:16:42 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 14 Sep 2015 14:16:33 GMT</pubDate>
+		<pubDate>Tue, 15 Sep 2015 14:16:42 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - September 15th, 1978: Ali defeats Spinks to win world heavyweight championship]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship">http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueSep152015/Today_In_History_Tue-Sep-15-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueSep152015/Today_In_History_Tue-Sep-15-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 15 Sep 2015 14:16:42 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - September 15th, 1978: Ali defeats Spinks to win world heavyweight championship</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship&quot;&gt;http://www.history.com/this-day-in-history/ali-defeats-spinks-to-win-world-heavyweight-championship&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueSep152015/Today_In_History_Tue-Sep-15-2015.mp3" length="1485855" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 14th, 1901: McKinley dies of infection from gunshot wounds]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds">http://www.history.com/this-day-in-history/mckinley-dies-of-infection-from-gunshot-wounds</a>]]></description>
