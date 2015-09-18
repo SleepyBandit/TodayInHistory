@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 17 Sep 2015 13:16:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 18 Sep 2015 13:16:26 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Thu, 17 Sep 2015 14:16:27 GMT</pubDate>
+		<pubDate>Fri, 18 Sep 2015 14:16:26 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - September 18th, 1793: Capitol cornerstone is laid]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/capitol-cornerstone-is-laid">http://www.history.com/this-day-in-history/capitol-cornerstone-is-laid</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryFriSep182015/Today_In_History_Fri-Sep-18-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryFriSep182015/Today_In_History_Fri-Sep-18-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 18 Sep 2015 14:16:26 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - September 18th, 1793: Capitol cornerstone is laid</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/capitol-cornerstone-is-laid&quot;&gt;http://www.history.com/this-day-in-history/capitol-cornerstone-is-laid&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryFriSep182015/Today_In_History_Fri-Sep-18-2015.mp3" length="1286489" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 17th, 1862: Battle of Antietam]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/battle-of-antietam">http://www.history.com/this-day-in-history/battle-of-antietam</a>]]></description>
