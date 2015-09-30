@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 28 Sep 2015 13:16:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2015 01:37:42 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 28 Sep 2015 14:16:38 GMT</pubDate>
+		<pubDate>Wed, 30 Sep 2015 02:37:42 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - September 29th, 2005: Reporter Judith Miller released from prison]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/reporter-judith-miller-released-from-prison">http://www.history.com/this-day-in-history/reporter-judith-miller-released-from-prison</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueSep292015/Today_In_History_Tue-Sep-29-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueSep292015/Today_In_History_Tue-Sep-29-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 30 Sep 2015 02:37:42 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - September 29th, 2005: Reporter Judith Miller released from prison</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/reporter-judith-miller-released-from-prison&quot;&gt;http://www.history.com/this-day-in-history/reporter-judith-miller-released-from-prison&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueSep292015/Today_In_History_Tue-Sep-29-2015.mp3" length="1240096" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - September 28th, 1941: Ted Williams becomes last player to hit .400]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/ted-williams-becomes-last-player-to-hit-400">http://www.history.com/this-day-in-history/ted-williams-becomes-last-player-to-hit-400</a>]]></description>
