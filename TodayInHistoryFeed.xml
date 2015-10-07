@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 06 Oct 2015 13:16:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2015 13:16:22 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Tue, 06 Oct 2015 14:16:27 GMT</pubDate>
+		<pubDate>Wed, 07 Oct 2015 14:16:22 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - October 7th, 2003: Arnold Schwarzenegger becomes California governor]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/arnold-schwarzenegger-becomes-california-governor">http://www.history.com/this-day-in-history/arnold-schwarzenegger-becomes-california-governor</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryWedOct072015/Today_In_History_Wed-Oct-07-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryWedOct072015/Today_In_History_Wed-Oct-07-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 07 Oct 2015 14:16:22 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - October 7th, 2003: Arnold Schwarzenegger becomes California governor</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/arnold-schwarzenegger-becomes-california-governor&quot;&gt;http://www.history.com/this-day-in-history/arnold-schwarzenegger-becomes-california-governor&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryWedOct072015/Today_In_History_Wed-Oct-07-2015.mp3" length="1427707" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 6th, 1866: First U.S. train robbery]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/first-u-s-train-robbery">http://www.history.com/this-day-in-history/first-u-s-train-robbery</a>]]></description>
