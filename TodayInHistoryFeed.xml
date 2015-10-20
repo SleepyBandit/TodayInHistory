@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 19 Oct 2015 13:16:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Oct 2015 13:16:27 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 19 Oct 2015 14:16:21 GMT</pubDate>
+		<pubDate>Tue, 20 Oct 2015 14:16:27 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - October 20th, 1947: Congress investigates Reds in Hollywood]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/congress-investigates-reds-in-hollywood">http://www.history.com/this-day-in-history/congress-investigates-reds-in-hollywood</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueOct202015/Today_In_History_Tue-Oct-20-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueOct202015/Today_In_History_Tue-Oct-20-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 20 Oct 2015 14:16:27 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - October 20th, 1947: Congress investigates Reds in Hollywood</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/congress-investigates-reds-in-hollywood&quot;&gt;http://www.history.com/this-day-in-history/congress-investigates-reds-in-hollywood&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueOct202015/Today_In_History_Tue-Oct-20-2015.mp3" length="1119880" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - October 19th, 1781: Victory at Yorktown]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/victory-at-yorktown">http://www.history.com/this-day-in-history/victory-at-yorktown</a>]]></description>
