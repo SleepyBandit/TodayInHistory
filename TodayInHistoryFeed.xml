@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 02 Nov 2015 14:16:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2015 14:16:35 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 02 Nov 2015 14:16:18 GMT</pubDate>
+		<pubDate>Tue, 03 Nov 2015 14:16:35 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - November 3rd, 1964: D.C. residents cast first presidential votes]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/d-c-residents-cast-first-presidential-votes">http://www.history.com/this-day-in-history/d-c-residents-cast-first-presidential-votes</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueNov032015/Today_In_History_Tue-Nov-03-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueNov032015/Today_In_History_Tue-Nov-03-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 03 Nov 2015 14:16:35 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - November 3rd, 1964: D.C. residents cast first presidential votes</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/d-c-residents-cast-first-presidential-votes&quot;&gt;http://www.history.com/this-day-in-history/d-c-residents-cast-first-presidential-votes&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueNov032015/Today_In_History_Tue-Nov-03-2015.mp3" length="1212510" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 2nd, 1947: Spruce Goose flies]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/spruce-goose-flies">http://www.history.com/this-day-in-history/spruce-goose-flies</a>]]></description>
