@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Thu, 05 Nov 2015 14:16:37 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 06 Nov 2015 14:16:33 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Thu, 05 Nov 2015 14:16:37 GMT</pubDate>
+		<pubDate>Fri, 06 Nov 2015 14:16:33 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - November 6th, 1962: U.N. condemns apartheid]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/u-n-condemns-apartheid">http://www.history.com/this-day-in-history/u-n-condemns-apartheid</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryFriNov062015/Today_In_History_Fri-Nov-06-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryFriNov062015/Today_In_History_Fri-Nov-06-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Fri, 06 Nov 2015 14:16:33 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - November 6th, 1962: U.N. condemns apartheid</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/u-n-condemns-apartheid&quot;&gt;http://www.history.com/this-day-in-history/u-n-condemns-apartheid&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryFriNov062015/Today_In_History_Fri-Nov-06-2015.mp3" length="1530368" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 5th, 1994: George Foreman becomes oldest heavyweight champ]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/george-foreman-becomes-oldest-heavyweight-champ">http://www.history.com/this-day-in-history/george-foreman-becomes-oldest-heavyweight-champ</a>]]></description>
