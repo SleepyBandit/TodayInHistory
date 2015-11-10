@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 09 Nov 2015 14:16:28 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Nov 2015 14:16:35 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 09 Nov 2015 14:16:28 GMT</pubDate>
+		<pubDate>Tue, 10 Nov 2015 14:16:35 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - November 10th, 1969: Sesame Street debuts]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/sesame-street-debuts">http://www.history.com/this-day-in-history/sesame-street-debuts</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueNov102015/Today_In_History_Tue-Nov-10-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueNov102015/Today_In_History_Tue-Nov-10-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 10 Nov 2015 14:16:35 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - November 10th, 1969: Sesame Street debuts</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/sesame-street-debuts&quot;&gt;http://www.history.com/this-day-in-history/sesame-street-debuts&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueNov102015/Today_In_History_Tue-Nov-10-2015.mp3" length="1177245" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - November 9th, 1938: Nazis launch Kristallnacht]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/nazis-launch-kristallnacht">http://www.history.com/this-day-in-history/nazis-launch-kristallnacht</a>]]></description>
