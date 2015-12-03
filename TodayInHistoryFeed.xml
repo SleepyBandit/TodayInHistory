@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 02 Dec 2015 14:16:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 03 Dec 2015 14:16:40 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Wed, 02 Dec 2015 14:16:41 GMT</pubDate>
+		<pubDate>Thu, 03 Dec 2015 14:16:40 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - December 3rd, 1947: A Streetcar Named Desire opens on Broadway]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway">http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryThuDec032015/Today_In_History_Thu-Dec-03-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryThuDec032015/Today_In_History_Thu-Dec-03-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 03 Dec 2015 14:16:40 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - December 3rd, 1947: A Streetcar Named Desire opens on Broadway</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway&quot;&gt;http://www.history.com/this-day-in-history/a-streetcar-named-desire-opens-on-broadway&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryThuDec032015/Today_In_History_Thu-Dec-03-2015.mp3" length="1206555" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 2nd, 2001: Enron files for bankruptcy]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/enron-files-for-bankruptcy">http://www.history.com/this-day-in-history/enron-files-for-bankruptcy</a>]]></description>
