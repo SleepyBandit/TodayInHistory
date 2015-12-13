@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 12 Dec 2015 14:16:40 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 13 Dec 2015 14:16:19 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sat, 12 Dec 2015 14:16:40 GMT</pubDate>
+		<pubDate>Sun, 13 Dec 2015 14:16:19 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - December 13th, 2000: Al Gore concedes presidential election]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/al-gore-concedes-presidential-election">http://www.history.com/this-day-in-history/al-gore-concedes-presidential-election</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySunDec132015/Today_In_History_Sun-Dec-13-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySunDec132015/Today_In_History_Sun-Dec-13-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 13 Dec 2015 14:16:19 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - December 13th, 2000: Al Gore concedes presidential election</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/al-gore-concedes-presidential-election&quot;&gt;http://www.history.com/this-day-in-history/al-gore-concedes-presidential-election&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySunDec132015/Today_In_History_Sun-Dec-13-2015.mp3" length="1118625" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 12th, 1980: Da Vinci notebook sells for over 5 million]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/da-vinci-notebook-sells-for-over-5-million">http://www.history.com/this-day-in-history/da-vinci-notebook-sells-for-over-5-million</a>]]></description>
