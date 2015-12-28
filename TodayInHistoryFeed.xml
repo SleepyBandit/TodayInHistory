@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 27 Dec 2015 14:16:23 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 28 Dec 2015 14:16:34 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sun, 27 Dec 2015 14:16:23 GMT</pubDate>
+		<pubDate>Mon, 28 Dec 2015 14:16:34 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - December 28th, 1895: First commercial movie screened]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/first-commercial-movie-screened">http://www.history.com/this-day-in-history/first-commercial-movie-screened</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryMonDec282015/Today_In_History_Mon-Dec-28-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryMonDec282015/Today_In_History_Mon-Dec-28-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 28 Dec 2015 14:16:34 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - December 28th, 1895: First commercial movie screened</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/first-commercial-movie-screened&quot;&gt;http://www.history.com/this-day-in-history/first-commercial-movie-screened&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryMonDec282015/Today_In_History_Mon-Dec-28-2015.mp3" length="1324262" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 27th, 1932: Radio City Music Hall opens]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/radio-city-music-hall-opens">http://www.history.com/this-day-in-history/radio-city-music-hall-opens</a>]]></description>
