@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Wed, 30 Dec 2015 14:16:24 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 31 Dec 2015 14:16:33 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Wed, 30 Dec 2015 14:16:24 GMT</pubDate>
+		<pubDate>Thu, 31 Dec 2015 14:16:33 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2015 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - December 31st, 1999: Panama Canal turned over to Panama]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/panama-canal-turned-over-to-panama">http://www.history.com/this-day-in-history/panama-canal-turned-over-to-panama</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryThuDec312015/Today_In_History_Thu-Dec-31-2015.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryThuDec312015/Today_In_History_Thu-Dec-31-2015.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Thu, 31 Dec 2015 14:16:33 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - December 31st, 1999: Panama Canal turned over to Panama</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/panama-canal-turned-over-to-panama&quot;&gt;http://www.history.com/this-day-in-history/panama-canal-turned-over-to-panama&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryThuDec312015/Today_In_History_Thu-Dec-31-2015.mp3" length="1540556" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - December 30th, 1922: USSR established]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/ussr-established">http://www.history.com/this-day-in-history/ussr-established</a>]]></description>
