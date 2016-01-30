@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 29 Jan 2016 14:16:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 30 Jan 2016 14:16:20 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Fri, 29 Jan 2016 14:16:13 GMT</pubDate>
+		<pubDate>Sat, 30 Jan 2016 14:16:20 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - January 30th, 1948: Gandhi assassinated]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/gandhi-assassinated">http://www.history.com/this-day-in-history/gandhi-assassinated</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySatJan302016/Today_In_History_Sat-Jan-30-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySatJan302016/Today_In_History_Sat-Jan-30-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 30 Jan 2016 14:16:20 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - January 30th, 1948: Gandhi assassinated</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/gandhi-assassinated&quot;&gt;http://www.history.com/this-day-in-history/gandhi-assassinated&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySatJan302016/Today_In_History_Sat-Jan-30-2016.mp3" length="2266708" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - January 29th, 1936: U.S. Baseball Hall of Fame elects first members]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/u-s-baseball-hall-of-fame-elects-first-members">http://www.history.com/this-day-in-history/u-s-baseball-hall-of-fame-elects-first-members</a>]]></description>
