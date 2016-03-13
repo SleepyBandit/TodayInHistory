@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sat, 12 Mar 2016 14:16:14 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 13 Mar 2016 13:16:12 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sat, 12 Mar 2016 14:16:14 GMT</pubDate>
+		<pubDate>Sun, 13 Mar 2016 14:16:12 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - March 13th, 1942: U.S. Army launches K-9 Corps]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/u-s-army-launches-k-9-corps">http://www.history.com/this-day-in-history/u-s-army-launches-k-9-corps</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySunMar132016/Today_In_History_Sun-Mar-13-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySunMar132016/Today_In_History_Sun-Mar-13-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sun, 13 Mar 2016 14:16:12 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - March 13th, 1942: U.S. Army launches K-9 Corps</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/u-s-army-launches-k-9-corps&quot;&gt;http://www.history.com/this-day-in-history/u-s-army-launches-k-9-corps&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySunMar132016/Today_In_History_Sun-Mar-13-2016.mp3" length="1213607" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - March 12th, 1933: FDR gives first fireside chat]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/fdr-gives-first-fireside-chat">http://www.history.com/this-day-in-history/fdr-gives-first-fireside-chat</a>]]></description>
