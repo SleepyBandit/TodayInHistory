@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Mon, 18 Apr 2016 13:16:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Apr 2016 15:43:20 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Mon, 18 Apr 2016 14:16:33 GMT</pubDate>
+		<pubDate>Tue, 19 Apr 2016 16:43:20 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - April 19th, 1897: First Boston Marathon held]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/first-boston-marathon-held">http://www.history.com/this-day-in-history/first-boston-marathon-held</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryTueApr192016/Today_In_History_Tue-Apr-19-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryTueApr192016/Today_In_History_Tue-Apr-19-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Tue, 19 Apr 2016 16:43:20 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - April 19th, 1897: First Boston Marathon held</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/first-boston-marathon-held&quot;&gt;http://www.history.com/this-day-in-history/first-boston-marathon-held&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryTueApr192016/Today_In_History_Tue-Apr-19-2016.mp3" length="1286019" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - April 18th, 1906: The Great San Francisco Earthquake]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/the-great-san-francisco-earthquake">http://www.history.com/this-day-in-history/the-great-san-francisco-earthquake</a>]]></description>
