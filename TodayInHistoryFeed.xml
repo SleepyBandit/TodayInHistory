@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 22 May 2016 13:16:35 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 May 2016 13:16:34 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sun, 22 May 2016 14:16:35 GMT</pubDate>
+		<pubDate>Mon, 23 May 2016 14:16:34 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - May 23rd, 1934: Police kill famous outlaws Bonnie and Clyde]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/police-kill-famous-outlaws-bonnie-and-clyde">http://www.history.com/this-day-in-history/police-kill-famous-outlaws-bonnie-and-clyde</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryMonMay232016/Today_In_History_Mon-May-23-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryMonMay232016/Today_In_History_Mon-May-23-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 23 May 2016 14:16:34 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - May 23rd, 1934: Police kill famous outlaws Bonnie and Clyde</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/police-kill-famous-outlaws-bonnie-and-clyde&quot;&gt;http://www.history.com/this-day-in-history/police-kill-famous-outlaws-bonnie-and-clyde&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryMonMay232016/Today_In_History_Mon-May-23-2016.mp3" length="1511560" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - May 22nd, 1843: Great Emigration departs for Oregon]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/great-emigration-departs-for-oregon">http://www.history.com/this-day-in-history/great-emigration-departs-for-oregon</a>]]></description>
