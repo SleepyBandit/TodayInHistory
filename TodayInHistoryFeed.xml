@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Fri, 03 Jun 2016 13:16:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 04 Jun 2016 13:16:20 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Fri, 03 Jun 2016 14:16:27 GMT</pubDate>
+		<pubDate>Sat, 04 Jun 2016 14:16:20 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - June 4th, 1942: Battle of Midway begins]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/battle-of-midway-begins">http://www.history.com/this-day-in-history/battle-of-midway-begins</a>]]></description>
+			<link>https://archive.org/download/TodayInHistorySatJun042016/Today_In_History_Sat-Jun-04-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistorySatJun042016/Today_In_History_Sat-Jun-04-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Sat, 04 Jun 2016 14:16:20 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - June 4th, 1942: Battle of Midway begins</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/battle-of-midway-begins&quot;&gt;http://www.history.com/this-day-in-history/battle-of-midway-begins&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistorySatJun042016/Today_In_History_Sat-Jun-04-2016.mp3" length="1331942" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 3rd, 1989: Crackdown at Tiananmen begins]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins">http://www.history.com/this-day-in-history/crackdown-at-tiananmen-begins</a>]]></description>
