@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Sun, 05 Jun 2016 13:16:03 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 06 Jun 2016 13:16:08 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Sun, 05 Jun 2016 14:16:03 GMT</pubDate>
+		<pubDate>Mon, 06 Jun 2016 14:16:08 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - June 6th, 1944: D-Day]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/d-day">http://www.history.com/this-day-in-history/d-day</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryMonJun062016/Today_In_History_Mon-Jun-06-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryMonJun062016/Today_In_History_Mon-Jun-06-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Mon, 06 Jun 2016 14:16:08 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - June 6th, 1944: D-Day</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/d-day&quot;&gt;http://www.history.com/this-day-in-history/d-day&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryMonJun062016/Today_In_History_Mon-Jun-06-2016.mp3" length="1724092" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - June 5th, 1933: FDR takes United States off gold standard]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/fdr-takes-united-states-off-gold-standard">http://www.history.com/this-day-in-history/fdr-takes-united-states-off-gold-standard</a>]]></description>
