@@ -10,10 +10,10 @@
 			<link>http://sleepybandit.github.io/TodayInHistory/</link>
 		</image>
 		<generator>Podcast for Node</generator>
-		<lastBuildDate>Tue, 16 Aug 2016 13:16:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 17 Aug 2016 13:15:59 GMT</lastBuildDate>
 		<atom:link href="http://sleepybandit.github.io/TodayInHistory/TodayInHistoryFeed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Matt Greene]]></author>
-		<pubDate>Tue, 16 Aug 2016 14:16:08 GMT</pubDate>
+		<pubDate>Wed, 17 Aug 2016 14:15:59 GMT</pubDate>
 		<copyright><![CDATA[Copyright 2016 Matt Greene]]></copyright>
 		<language><![CDATA[en]]></language>
 		<managingEditor><![CDATA[Matt Greene]]></managingEditor>
@@ -40,6 +40,20 @@
 		<category><![CDATA[Entertainment]]></category>
 		<category><![CDATA[Education]]></category>
 		<category><![CDATA[News]]></category>
+		<item>
+			<title><![CDATA[Today In History - August 17th, 1969: Woodstock Music Festival concludes]]></title>
+			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/woodstock-music-festival-concludes">http://www.history.com/this-day-in-history/woodstock-music-festival-concludes</a>]]></description>
+			<link>https://archive.org/download/TodayInHistoryWedAug172016/Today_In_History_Wed-Aug-17-2016.mp3</link>
+			<guid isPermaLink="true">https://archive.org/download/TodayInHistoryWedAug172016/Today_In_History_Wed-Aug-17-2016.mp3</guid>
+			<dc:creator><![CDATA[Matt Greene]]></dc:creator>
+			<pubDate>Wed, 17 Aug 2016 14:15:59 GMT</pubDate>
+			<itunes:author>Matt Greene</itunes:author>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:subtitle>Today In History - August 17th, 1969: Woodstock Music Festival concludes</itunes:subtitle>
+			<itunes:summary>&lt;a href=&quot;http://www.history.com/this-day-in-history/woodstock-music-festival-concludes&quot;&gt;http://www.history.com/this-day-in-history/woodstock-music-festival-concludes&lt;/a&gt;</itunes:summary>
+			<itunes:keywords>Today in History</itunes:keywords>
+			<enclosure url="https://archive.org/download/TodayInHistoryWedAug172016/Today_In_History_Wed-Aug-17-2016.mp3" length="1394322" type="audio/mpeg"/>
+		</item>
 		<item>
 			<title><![CDATA[Today In History - August 16th, 1896: Gold discovered in the Yukon]]></title>
 			<description><![CDATA[<a href="http://www.history.com/this-day-in-history/gold-discovered-in-the-yukon">http://www.history.com/this-day-in-history/gold-discovered-in-the-yukon</a>]]></description>
