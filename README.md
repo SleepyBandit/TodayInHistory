@@ -12,11 +12,14 @@
 
 <!-- /BADGES -->
 
+<!-- UPDATE/ -->
+
 ## UPDATE
 I've recently moved the podcast feed to AWS. With some major code updates, the entire code base and its produced product (the show) are hosted within AWS. This means this repo will no longer be recieving daily updates. The feed file located here should now redirect users to the new feed on AWS. The below links should also link you to the new feed.
+<!-- /UPDATE -->
 
 <!-- DESCRIPTION/ -->
-
+## Description
 A daily computer generated podcast that takes the daily article from [History.com - This Day in History](http://www.history.com/this-day-in-history), and reads it to you. This was created mostly for personal use, but I've published the podcast for free for everyone who cares to enjoy it.
 
 Feel free to find links to the podcast on [iTunes](https://itunes.apple.com/us/podcast/today-in-history/id1004270236) or a link to the [XML Feed file](https://pcr.apple.com/id1004270236).
