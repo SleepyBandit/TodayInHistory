@@ -12,51 +12,15 @@
 
 <!-- /BADGES -->
 
+## UPDATE
+I've recently moved the podcast feed to AWS. With some major code updates, the entire code base and its produced product (the show) are hosted within AWS. This means this repo will no longer be recieving daily updates. The feed file located here should now redirect users to the new feed on AWS. The below links should also link you to the new feed.
 
 <!-- DESCRIPTION/ -->
 
 A daily computer generated podcast that takes the daily article from [History.com - This Day in History](http://www.history.com/this-day-in-history), and reads it to you. This was created mostly for personal use, but I've published the podcast for free for everyone who cares to enjoy it.
 
-Feel free to find links to the podcast on [iTunes](https://itunes.apple.com/us/podcast/today-in-history/id1004270236) or a link to the [XML Feed file](http://bitly.com/1FYsQCs).
+Feel free to find links to the podcast on [iTunes](https://itunes.apple.com/us/podcast/today-in-history/id1004270236) or a link to the [XML Feed file](https://pcr.apple.com/id1004270236).
 
 <!-- /DESCRIPTION -->
-
-<!-- WHAT/ -->
-
-## What the App Does
-
-This application was written in JavaScript on the NodeJS framework. It completes the following tasks daily:
-
-- Queries History.com for the daily This Day in History article
-- Cleans the headline text to limit potential error during TTS conversion
-- Creates an intro, main story, and closing scripts for the day's podcast
-- Creates a back up of the daily script text in json format
-- Creates a show note text file with a link to the History.com article
-- Uses a TTS (text-to-speech) API to create the shows audio files
-- Uploads the final podcast MP3 file to Archive.org
-- Creates an updated, itunes' supported, XML feed
-- Pushes the XML feed changes to the feed file hosted on GitHub
-- Conducts internal cleanup and logging for the days tasks
-- Backs up daily logs and script files to Google Drive
-
-<!-- /WHAT -->
-
-<!-- MODULES/ -->
-
-## Modules
-
-This application utilizes the following node modules;
-
-- [node-podcast](https://github.com/maxnowack/node-podcast)
-- [node-feedparser](https://github.com/danmactough/node-feedparser)
-- [retext](https://github.com/wooorm/retext)
-- [google-api-nodejs-client](https://github.com/google/google-api-nodejs-client)
-- [octokats](https://github.com/philschatz/octokat.js)
-- [MomentJS-Timezone](http://momentjs.com/timezone/docs/)
-- [aws-sdk-js](https://github.com/aws/aws-sdk-js)
-- [string.js](http://stringjs.com)
-- [feed-read](https://github.com/sentientwaffle/feed-read)
-
-<!-- /MODULES -->
 
 If you are interested in more information, please feel free to contact me.
