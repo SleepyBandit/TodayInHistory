@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 	<channel>
-		<itunes:new-feed-url>https://s3-us-west-2.amazonaws.com/tihpodcast/tih-podcast.xml</itunes:new-feed-url>
+		<itunes:new-feed-url>https://sleepybandit.github.io/podfeeds/tih-podcast.xml</itunes:new-feed-url>
 		<title><![CDATA[Today In History]]></title>
 		<description><![CDATA[An automated daily podcast that covers an event from today in history.]]></description>
 		<link>http://sleepybandit.github.io/TodayInHistory/</link>
